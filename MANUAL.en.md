@@ -155,6 +155,10 @@ Favourites, settings and battery saves live in the 3DO's own memory and work in 
 
 ROMs, covers and cheats do not come with the project.
 
+## Thanks
+
+MGR3DO System was born from a bold idea: creating emulators for the 3DO, and more projects are on the way. Thanks to [MasterDO](https://github.com/stanton0arch/MasterDO) for being such a wonderful project: thanks to it, ours was able to evolve and reach such an amazing result!
+
 ---
 
 A **[Maniaco Game Room](https://www.maniacogameroom.com.br/)** project.

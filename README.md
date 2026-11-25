@@ -94,6 +94,10 @@ Favoritos, configurações e saves de bateria ficam na memória do próprio 3DO 
 
 Master System e Game Gear são marcas da Sega. Projeto independente, sem afiliação à Sega. Não inclui jogos.
 
+## Agradecimento
+
+O MGR3DO System nasceu de uma ideia audaciosa: criar emuladores para o 3DO, e outros projetos estão por vir. Obrigado ao [MasterDO](https://github.com/stanton0arch/MasterDO) por ser um projeto maravilhoso: graças a ele, o nosso pôde evoluir e ter um resultado tão incrível!
+
 ---
 
 Um projeto **[Maniaco Game Room](https://www.maniacogameroom.com.br/)**.
