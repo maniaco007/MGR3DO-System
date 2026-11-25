@@ -90,10 +90,6 @@ Favorites, settings and battery saves live in the 3DO's own memory (NVRAM) and d
 
 **Known limitations:** some games show a black screen or glitches (for example, Cool Spot loses its background during play); only the PSG is emulated (no FM from the Japanese Master System); the Game Gear zoom is 1.25x.
 
-## Third-party components
-
-The emulator core comes from **MasterDO**, by stanton0arch. Access to the ODE uses a driver derived from the ODE menu (Fixel). The ISO is built with **3dt** (trapexit). Covers and cheats come from **libretro** (cheats CC BY-SA 4.0) and the identification database from **No-Intro**. Details and licenses: **[TERCEIROS.md](TERCEIROS.md)**.
-
 Master System and Game Gear are trademarks of Sega. Independent project, not affiliated with Sega. No games included.
 
 ---

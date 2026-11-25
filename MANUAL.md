@@ -153,7 +153,7 @@ Favoritos, configurações e saves de bateria ficam na memória do próprio 3DO 
 - **Não há FM.** O som FM do Master System japonês não é emulado; só o PSG.
 - **O Gerenciador não acha capa ou cheats de um jogo.** Use **Escolher outra…** ou envie os seus. A busca aproximada pode errar: confira.
 
-As ROMs, capas e cheats são de terceiros e não acompanham o projeto (veja [TERCEIROS](TERCEIROS.md)).
+As ROMs, capas e cheats não acompanham o projeto.
 
 ---
 

@@ -90,10 +90,6 @@ Favoritos, configurações e saves de bateria ficam na memória do próprio 3DO 
 
 **Limitações conhecidas:** alguns jogos ficam com a tela preta ou com defeito (por exemplo, Cool Spot perde o fundo durante o jogo); só o PSG é emulado (sem o FM do Master System japonês); o zoom do Game Gear é 1,25x.
 
-## Componentes de terceiros
-
-O núcleo do emulador parte do **MasterDO**, de stanton0arch. O acesso à ODE usa um driver derivado do menu da ODE (Fixel). A ISO é montada com o **3dt** (trapexit). Capas e cheats vêm do **libretro** (cheats CC BY-SA 4.0) e o banco de identificação do **No-Intro**. Detalhes e licenças: **[TERCEIROS.md](TERCEIROS.md)**.
-
 Master System e Game Gear são marcas da Sega. Projeto independente, sem afiliação à Sega. Não inclui jogos.
 
 ---

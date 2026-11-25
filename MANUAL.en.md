@@ -153,7 +153,7 @@ Favourites, settings and battery saves live in the 3DO's own memory and work in 
 - **There is no FM.** The FM sound of the Japanese Master System is not emulated; only the PSG.
 - **The Manager cannot find the cover or cheats of a game.** Use **Choose another…** or send your own. The approximate search can be wrong: check it.
 
-ROMs, covers and cheats belong to third parties and do not come with the project (see [TERCEIROS](TERCEIROS.md)).
+ROMs, covers and cheats do not come with the project.
 
 ---
 
