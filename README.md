@@ -2,6 +2,8 @@
 
 **[English](README.en.md)**
 
+![MGR3DO System, emulador de Master System e Game Gear para o 3DO](imagens/capa.png)
+
 **Emulador de Master System e Game Gear para o 3DO, com menu em português, pastas, capas, cheats prontos e estado salvo no pen drive, e um aplicativo para Windows que monta a ISO a partir das suas ROMs.**
 
 Um projeto **[Maniaco Game Room](https://www.maniacogameroom.com.br/)**.

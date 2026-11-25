@@ -2,6 +2,8 @@
 
 **[Português](README.md)**
 
+![MGR3DO System, Master System and Game Gear emulator for the 3DO](imagens/capa.png)
+
 **Master System and Game Gear emulator for the 3DO, with a menu in Portuguese or English, folders, box art, ready-made cheats and save states on the pen drive, plus a Windows app that builds the ISO from your own ROMs.**
 
 A **[Maniaco Game Room](https://www.maniacogameroom.com.br/)** project.
